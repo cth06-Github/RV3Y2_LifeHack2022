@@ -20,7 +20,7 @@ const FourthQuiz = () => {
 
   return (
     <>
-      <h2 style={{ textAlign: "center" }}>Your Second Scenario!</h2>
+      <h2 style={{ textAlign: "center" }}>Your Fourth Scenario!</h2>
       <div
         style={{ display: "flex", justifyContent: "center", padding: "30px" }}
       >
